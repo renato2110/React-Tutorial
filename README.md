@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and 
-BASED IN THE TUTORIAL OF [TANIA RASCIA](https://www.taniarascia.com/getting-started-with-react/).
+based in the tutorial of [Tania Rascia](https://www.taniarascia.com/getting-started-with-react/).
 
 ## Available Scripts
 
