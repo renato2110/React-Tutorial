@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and 
+BASED IN THE TUTORIAL OF [TANIA RASCIA](https://www.taniarascia.com/getting-started-with-react/).
 
 ## Available Scripts
 
@@ -31,4 +32,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-BASED IN THE TUTORIAL OF [TANIA RASCIA](https://www.taniarascia.com/getting-started-with-react/).
